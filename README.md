@@ -5,9 +5,13 @@ Full-Stack Developer • Data Science & AI Enthusiast
 I turn ideas + data into real, scalable products.
 
 ⚡ About Me
+
 🎓 CS Student @ Sukkur IBA
+
 💡 Building full-stack apps + data-driven systems
+
 📊 Turning raw data into insights that matter
+
 🚀 Focused on real-world problem solving
 
 🛠️ Tech Stack

@@ -20,10 +20,13 @@ I build scalable web applications and data-driven systems — combining software
 
 🛒 E-Commerce Platform
 - Full-stack system with auth, dashboards, analytics & automation
+  
 📦 Inventory & Billing System
 - Desktop app with reporting, stock tracking & role-based access
+  
 🎓 Project Repository System
 - Role-based FYP platform with feedback & collaboration
+  
 📈 Exam Score Prediction Analysis
 - Analyzed 20,000+ student records
 - Performed EDA, statistical analysis & visualization

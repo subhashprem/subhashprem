@@ -14,6 +14,7 @@ I turn ideas + data into real, scalable products.
 
 🚀 Focused on real-world problem solving
 
+
 🛠️ Tech Stack
 
 💻 Development

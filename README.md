@@ -1,4 +1,4 @@
-##🚀 Subhash Prem
+Hi, I am **Subhash Prem**
 
 Full-Stack Developer • Data Science & AI Enthusiast
 

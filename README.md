@@ -35,5 +35,7 @@ I build scalable web applications and data-driven systems — combining software
   
 
 🌐 Connect With Me
+
 💼 LinkedIn: https://www.linkedin.com/in/subhash-prem-lalwani
+
 📧 Email: subhashprem4@gmail.com

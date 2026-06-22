@@ -14,25 +14,7 @@ I build scalable web applications and data-driven systems — combining software
 - Development: React • TypeScript • Node.js • FastAPI • Express
 - Databases: MongoDB • SQL Server
 - Languages: Python • JavaScript • C# • C++ • Java
-- Data & AI: Pandas • NumPy • Matplotlib • Power BI • Looker Studio
-
-🚀 Projects
-
-🛒 E-Commerce Platform
-- Full-stack system with auth, dashboards, analytics & automation
-  
-📦 Inventory & Billing System
-- Desktop app with reporting, stock tracking & role-based access
-  
-🎓 Project Repository System
-- Role-based FYP platform with feedback & collaboration
-  
-📈 Exam Score Prediction Analysis
-- Analyzed 20,000+ student records
-- Performed EDA, statistical analysis & visualization
-- Found study hours as strongest predictor (r ≈ 0.72)
-- Generated actionable insights on performance factors
-  
+- Data & AI: Pandas • NumPy • Matplotlib • Power BI • Looker Studio  
 
 🌐 Connect With Me
 
